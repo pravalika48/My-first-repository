@@ -1,7 +1,8 @@
 there are various commands in git like
-    git init
+    git init-to create
     git add
     git pull
     git push
-    git rm
-    git commit
+    git rm-to remove
+    git commit-to commit
+    git log

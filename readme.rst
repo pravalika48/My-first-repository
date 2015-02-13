@@ -1,1 +1,3 @@
-this is my first directory.welcome to git
+this is my first directory.
+welcome to git.
+its interesting.
